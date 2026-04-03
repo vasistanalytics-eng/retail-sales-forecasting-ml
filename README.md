@@ -31,5 +31,11 @@ Build a machine learning model to forecast retail sales using historical transac
 
 ![Forecast vs Actual](forecast_vs_actual.png)
 
+## Project Files
+
+Full project files available here:
+
+[Google Drive Link](https://drive.google.com/drive/folders/1SdfF6E6MI08y107BO8hQwAr0wOTzW5jd?usp=sharing)
+
 ## Conclusion
 This project demonstrates practical machine learning, feature engineering, sales forecasting, and business-oriented interpretation of model results.
